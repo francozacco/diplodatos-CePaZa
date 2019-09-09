@@ -7,7 +7,7 @@ Descargar del sitio https://grouplens.org/datasets/movielens/ el archivo ml-20m.
 
 Luego corrarer el notebook con jupyter.
 
-### Conclusion.
+### Conclusión.
 
 Nos quedamos con reglas donde el Lift sea mayor a 2.
 
